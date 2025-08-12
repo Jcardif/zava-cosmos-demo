@@ -1,0 +1,283 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.0",
+  "metadata": {
+    "_generator": {
+      "name": "bicep",
+      "version": "0.37.4.10188",
+      "templateHash": "3473728344791095015"
+    }
+  },
+  "parameters": {
+    "accountName": {
+      "type": "string",
+      "metadata": {
+        "description": "Cosmos DB account name (must be globally unique)"
+      }
+    },
+    "databaseName": {
+      "type": "string",
+      "defaultValue": "core-operations",
+      "metadata": {
+        "description": "Cosmos SQL database name"
+      }
+    },
+    "enableFreeTier": {
+      "type": "bool",
+      "defaultValue": true,
+      "metadata": {
+        "description": "Enable Free Tier on the Cosmos account (if available)"
+      }
+    },
+    "productsMaxRU": {
+      "type": "int",
+      "defaultValue": 4000,
+      "metadata": {
+        "description": "Autoscale max RU for products container"
+      }
+    },
+    "ordersMaxRU": {
+      "type": "int",
+      "defaultValue": 4000,
+      "metadata": {
+        "description": "Autoscale max RU for orders container"
+      }
+    },
+    "retailMaxRU": {
+      "type": "int",
+      "defaultValue": 4000,
+      "metadata": {
+        "description": "Autoscale max RU for retail container"
+      }
+    }
+  },
+  "variables": {
+    "location": "[resourceGroup().location]",
+    "productsIndexPolicy": {
+      "indexingMode": "consistent",
+      "automatic": true,
+      "includedPaths": [
+        {
+          "path": "/*"
+        }
+      ],
+      "excludedPaths": [
+        {
+          "path": "/specifications/*"
+        }
+      ],
+      "compositeIndexes": [
+        [
+          {
+            "path": "/category/id",
+            "order": "ascending"
+          },
+          {
+            "path": "/msrp",
+            "order": "ascending"
+          }
+        ],
+        [
+          {
+            "path": "/category/id",
+            "order": "ascending"
+          },
+          {
+            "path": "/launchDate",
+            "order": "descending"
+          }
+        ]
+      ]
+    },
+    "retailIndexPolicy": {
+      "indexingMode": "consistent",
+      "automatic": true,
+      "includedPaths": [
+        {
+          "path": "/*"
+        }
+      ],
+      "compositeIndexes": [
+        [
+          {
+            "path": "/docType",
+            "order": "ascending"
+          },
+          {
+            "path": "/productCode",
+            "order": "ascending"
+          }
+        ]
+      ]
+    }
+  },
+  "resources": [
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[parameters('accountName')]",
+      "location": "[variables('location')]",
+      "kind": "GlobalDocumentDB",
+      "properties": {
+        "databaseAccountOfferType": "Standard",
+        "locations": [
+          {
+            "locationName": "[variables('location')]",
+            "failoverPriority": 0,
+            "isZoneRedundant": false
+          }
+        ],
+        "consistencyPolicy": {
+          "defaultConsistencyLevel": "Session"
+        },
+        "enableFreeTier": "[parameters('enableFreeTier')]",
+        "publicNetworkAccess": "Enabled"
+      }
+    },
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[format('{0}/{1}', parameters('accountName'), parameters('databaseName'))]",
+      "properties": {
+        "resource": {
+          "id": "[parameters('databaseName')]"
+        }
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.DocumentDB/databaseAccounts', parameters('accountName'))]"
+      ]
+    },
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[format('{0}/{1}/products', parameters('accountName'), parameters('databaseName'))]",
+      "properties": {
+        "resource": {
+          "id": "products",
+          "partitionKey": {
+            "paths": [
+              "/code"
+            ],
+            "kind": "Hash"
+          },
+          "indexingPolicy": "[variables('productsIndexPolicy')]"
+        },
+        "options": {}
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.DocumentDB/databaseAccounts/sqlDatabases', parameters('accountName'), parameters('databaseName'))]"
+      ]
+    },
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[format('{0}/{1}/{2}/{3}', split(format('{0}/{1}/products', parameters('accountName'), parameters('databaseName')), '/')[0], split(format('{0}/{1}/products', parameters('accountName'), parameters('databaseName')), '/')[1], split(format('{0}/{1}/products', parameters('accountName'), parameters('databaseName')), '/')[2], 'default')]",
+      "properties": {
+        "resource": {
+          "autoscaleSettings": {
+            "maxThroughput": "[parameters('productsMaxRU')]"
+          }
+        }
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers', split(format('{0}/{1}/products', parameters('accountName'), parameters('databaseName')), '/')[0], split(format('{0}/{1}/products', parameters('accountName'), parameters('databaseName')), '/')[1], split(format('{0}/{1}/products', parameters('accountName'), parameters('databaseName')), '/')[2])]"
+      ]
+    },
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[format('{0}/{1}/orders', parameters('accountName'), parameters('databaseName'))]",
+      "properties": {
+        "resource": {
+          "id": "orders",
+          "partitionKey": {
+            "paths": [
+              "/customerId"
+            ],
+            "kind": "Hash"
+          },
+          "uniqueKeyPolicy": {
+            "uniqueKeys": [
+              {
+                "paths": [
+                  "/orderNumber"
+                ]
+              }
+            ]
+          }
+        },
+        "options": {}
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.DocumentDB/databaseAccounts/sqlDatabases', parameters('accountName'), parameters('databaseName'))]"
+      ]
+    },
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[format('{0}/{1}/{2}/{3}', split(format('{0}/{1}/orders', parameters('accountName'), parameters('databaseName')), '/')[0], split(format('{0}/{1}/orders', parameters('accountName'), parameters('databaseName')), '/')[1], split(format('{0}/{1}/orders', parameters('accountName'), parameters('databaseName')), '/')[2], 'default')]",
+      "properties": {
+        "resource": {
+          "autoscaleSettings": {
+            "maxThroughput": "[parameters('ordersMaxRU')]"
+          }
+        }
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers', split(format('{0}/{1}/orders', parameters('accountName'), parameters('databaseName')), '/')[0], split(format('{0}/{1}/orders', parameters('accountName'), parameters('databaseName')), '/')[1], split(format('{0}/{1}/orders', parameters('accountName'), parameters('databaseName')), '/')[2])]"
+      ]
+    },
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[format('{0}/{1}/retail', parameters('accountName'), parameters('databaseName'))]",
+      "properties": {
+        "resource": {
+          "id": "retail",
+          "partitionKey": {
+            "paths": [
+              "/storeId"
+            ],
+            "kind": "Hash"
+          },
+          "indexingPolicy": "[variables('retailIndexPolicy')]",
+          "uniqueKeyPolicy": {
+            "uniqueKeys": [
+              {
+                "paths": [
+                  "/docType",
+                  "/productId"
+                ]
+              }
+            ]
+          }
+        },
+        "options": {}
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.DocumentDB/databaseAccounts/sqlDatabases', parameters('accountName'), parameters('databaseName'))]"
+      ]
+    },
+    {
+      "type": "Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers/throughputSettings",
+      "apiVersion": "2025-05-01-preview",
+      "name": "[format('{0}/{1}/{2}/{3}', split(format('{0}/{1}/retail', parameters('accountName'), parameters('databaseName')), '/')[0], split(format('{0}/{1}/retail', parameters('accountName'), parameters('databaseName')), '/')[1], split(format('{0}/{1}/retail', parameters('accountName'), parameters('databaseName')), '/')[2], 'default')]",
+      "properties": {
+        "resource": {
+          "autoscaleSettings": {
+            "maxThroughput": "[parameters('retailMaxRU')]"
+          }
+        }
+      },
+      "dependsOn": [
+        "[resourceId('Microsoft.DocumentDB/databaseAccounts/sqlDatabases/containers', split(format('{0}/{1}/retail', parameters('accountName'), parameters('databaseName')), '/')[0], split(format('{0}/{1}/retail', parameters('accountName'), parameters('databaseName')), '/')[1], split(format('{0}/{1}/retail', parameters('accountName'), parameters('databaseName')), '/')[2])]"
+      ]
+    }
+  ],
+  "outputs": {
+    "endpoint": {
+      "type": "string",
+      "value": "[reference(resourceId('Microsoft.DocumentDB/databaseAccounts', parameters('accountName')), '2025-05-01-preview').documentEndpoint]"
+    }
+  }
+}

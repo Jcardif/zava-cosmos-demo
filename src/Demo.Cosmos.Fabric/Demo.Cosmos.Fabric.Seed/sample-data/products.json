@@ -1,0 +1,3962 @@
+[
+  {
+    "id": "12a65136-c6c0-45b9-8665-8f9a91f313fb",
+    "code": "ATH-S-BW",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DrBlueWhite S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b87fa835-1e5a-4e89-8431-93ce7e23cd54",
+    "code": "LUM-L-OB",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - OrangeBlack L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-01-21",
+    "size": "L",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "96c0b634-c3b2-4c57-84b7-4c45bcebd4dc",
+    "code": "ATH-XL-BO",
+    "name": "Aura Field Elite Athletic Pants - BlackOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "36d403e6-fef5-46fd-9429-1e990e38ddae",
+    "code": "ATH-XXL-BO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - BlackOrange XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XXL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e5a994b2-9839-4609-a0bc-079ff735787d",
+    "code": "ATH-M-CS",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - CharcoalSilver M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "ec1d5f5b-59c3-4d90-9a1f-8db85ee9ae92",
+    "code": "EXT-M-OB",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - OrangeBlack M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "M",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "9e6fe25d-2aee-4b22-aa15-c05669b8d8b6",
+    "code": "ATH-S-TO",
+    "name": "Aura Field Elite Athletic Pants - TealOrange S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-02-24",
+    "size": "S",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "ef65f526-1fcd-4f8a-a679-2343ed0851c2",
+    "code": "ATH-XL-BW",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DrBlueWhite XL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-06-14",
+    "size": "XL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "05a200c4-ac58-4d41-9bac-12ef89c3d485",
+    "code": "LUM-S-OB",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - OrangeBlack S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-07-11",
+    "size": "S",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "eff46553-917a-4940-aa90-030772a6947d",
+    "code": "ATH-XXL-CS",
+    "name": "Aura Field Elite Athletic Pants - CharcoalSilver XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "3a9e8b4a-7da4-4604-add2-d3379def8da7",
+    "code": "LUM-XXL-CS",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - CharcoalSilver XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XXL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "6394df4f-f142-4c53-a15d-28e28d31b31e",
+    "code": "ATH-XXL-BW",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DrBlueWhite XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-05-16",
+    "size": "XXL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f9723ad3-78ac-48f5-ae79-33109d24c9dc",
+    "code": "LUM-M-OB",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - OrangeBlack M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "M",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c10c8c92-0404-4d8a-9efb-36e94caa31c5",
+    "code": "LUM-S-BW",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DrBlueWhite S",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "S",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "ab72536e-58ff-443a-9f91-8482074e8398",
+    "code": "ATH-XL-RR",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DeepRedRed XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "44c6c65d-1da4-41f0-b275-0f2da9e47cdb",
+    "code": "ATH-M-CS",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - CharcoalSilver M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "186f4814-1913-4fd2-895a-46aec4ecb862",
+    "code": "ATH-M-BW",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DrBlueWhite M",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "7a88129b-aef2-41e6-9486-6ba11052d977",
+    "code": "EXT-XXL-BW",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DrBlueWhite XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XXL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "9dccf38b-e14a-4d98-8003-3a45e04a377a",
+    "code": "ATH-XXL-BO",
+    "name": "Aura Field Elite Athletic Pants - BlackOrange XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "6164440e-2f4b-4171-ae57-cc54a0eafefc",
+    "code": "ATH-S-OB",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - OrangeBlack S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f03e2191-4b8e-4745-9ddc-3e5853f4ec84",
+    "code": "LUM-XXL-OB",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - OrangeBlack XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XXL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f8a618a5-645f-4b45-9cf7-d91188f7dc7b",
+    "code": "EXT-XL-BO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - BlackOrange XL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "214ae115-2ac5-421c-9e32-f1cb8c0ed2da",
+    "code": "LUM-M-TO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - TealOrange M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-01-02",
+    "size": "M",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "34039448-dadd-4d05-9d4c-6938d91c571c",
+    "code": "ATH-XXL-BW",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DrBlueWhite XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-08-09",
+    "size": "XXL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1f855330-42ce-49c8-8c68-71113237dbfc",
+    "code": "ATH-L-BW",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DrBlueWhite L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-05-19",
+    "size": "L",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1ad14b87-7136-48b6-9929-f53af7f0007d",
+    "code": "ATH-XXL-RR",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DeepRedRed XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "690e60cf-2a28-4cb0-96e2-72e3675269c5",
+    "code": "EXT-XXL-RR",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DeepRedRed XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-04-16",
+    "size": "XXL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "2574879f-cf79-4eb8-98bf-0f80d3869acc",
+    "code": "ATH-S-TO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - TealOrange S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1e6a47eb-008a-47b7-872c-e8783ddc5646",
+    "code": "ATH-XXL-BO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - BlackOrange XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-05-18",
+    "size": "XXL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "2c8f2261-39f9-4caa-b707-f05b146947d8",
+    "code": "LUM-XXL-RR",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DeepRedRed XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XXL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e8e58885-e7c4-40b9-965e-73ebc3893159",
+    "code": "ATH-M-OB",
+    "name": "Aura Field Elite Athletic Pants - OrangeBlack M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c649efcf-6965-4004-a75c-0a718c200f35",
+    "code": "ATH-XL-RR",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DeepRedRed XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c2ab718a-2f7a-4bd2-afa4-cc6f68dec2fd",
+    "code": "LUM-XL-BO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - BlackOrange XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "5edb8cb9-ac89-41f1-822f-771066157c80",
+    "code": "LUM-S-CS",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - CharcoalSilver S",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "S",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a63411b1-5904-448f-a027-b1ee9d5959e6",
+    "code": "LUM-L-TO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - TealOrange L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "L",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "487cb27a-7020-403a-8a72-ddb72e6f24c1",
+    "code": "EXT-XL-TO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - TealOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-01-15",
+    "size": "XL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "68290a60-8770-4344-af0d-b9dec69e4973",
+    "code": "ATH-M-TO",
+    "name": "Aura Field Elite Athletic Pants - TealOrange M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "595ffca2-878c-4e25-9b9f-ab84130815c4",
+    "code": "ATH-M-RR",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DeepRedRed M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e52144cf-a1fe-48bf-846b-893668ca0082",
+    "code": "ATH-L-CS",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - CharcoalSilver L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b8f27159-83f4-416c-aac0-eeb7a7d6d159",
+    "code": "ATH-L-TO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - TealOrange L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-02-03",
+    "size": "L",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "98faae5f-765b-417c-a456-2c88cbf3dbf9",
+    "code": "ATH-XL-RR",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DeepRedRed XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-01-19",
+    "size": "XL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "8e9a46e9-559b-49aa-898c-51c18bf21ed4",
+    "code": "ATH-XL-BO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - BlackOrange XL",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "5c7bf1f6-60c2-43c7-be43-6b6133dc6361",
+    "code": "ATH-XL-OB",
+    "name": "Aura Field Elite Athletic Pants - OrangeBlack XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "66812ffe-a3da-4bd9-894d-32a6fbd1bfa3",
+    "code": "EXT-XXL-OB",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - OrangeBlack XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XXL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "3c762a02-e14c-40aa-85bd-c434a4fcda53",
+    "code": "ATH-XXL-OB",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - OrangeBlack XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1f3c6adc-f9e7-41b8-80b1-d307b75f7a06",
+    "code": "ATH-XXL-RR",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DeepRedRed XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b66e96be-8379-4cb1-970f-592c5c08a2e2",
+    "code": "EXT-XXL-TO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - TealOrange XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XXL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "89e9b75c-d942-47ae-8b1c-dc664205c2b4",
+    "code": "ATH-S-CS",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - CharcoalSilver S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e5043093-d413-49e9-a434-abb4ab9c3cfd",
+    "code": "ATH-L-BW",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DrBlueWhite L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b483ebf4-b5ed-4aaf-bf93-2b51e4a201df",
+    "code": "LUM-XXL-TO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - TealOrange XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XXL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "61ab0e1b-5aaf-4c92-b625-90e0b087dd2e",
+    "code": "ATH-XXL-BO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - BlackOrange XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-07-23",
+    "size": "XXL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b1f04682-aad3-4b05-8bcf-212fa41705eb",
+    "code": "ATH-XXL-RR",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DeepRedRed XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XXL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b933ecb3-9cb3-4227-a350-9ae310efdaee",
+    "code": "ATH-XL-TO",
+    "name": "Aura Field Elite Athletic Pants - TealOrange XL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "2ec49618-f210-46ea-b303-fc30f4c2f266",
+    "code": "ATH-M-BO",
+    "name": "Aura Field Elite Athletic Pants - BlackOrange M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "6ab3413c-4955-4a34-8639-8fbb926b0737",
+    "code": "LUM-XL-BW",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DrBlueWhite XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "7a251669-2dfd-4f95-9e96-cfb76e7c4e6d",
+    "code": "ATH-XL-TO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - TealOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-03-31",
+    "size": "XL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e0339115-1243-4338-9a52-87fb23389662",
+    "code": "ATH-L-RR",
+    "name": "Aura Field Elite Athletic Pants - DeepRedRed L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-04-13",
+    "size": "L",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "7259624b-e2b7-497c-9142-5b9e946e0cf4",
+    "code": "ATH-S-OB",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - OrangeBlack S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-06-23",
+    "size": "S",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "aa72d144-2951-414e-888d-656f437832f9",
+    "code": "ATH-XL-RR",
+    "name": "Aura Field Elite Athletic Pants - DeepRedRed XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "286b3277-655f-4e6b-89c7-9a35fe4ae7f2",
+    "code": "ATH-S-BO",
+    "name": "Aura Field Elite Athletic Pants - BlackOrange S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-03-30",
+    "size": "S",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b1b740fd-6c88-4bdc-ab1e-bbb8862d689c",
+    "code": "ATH-XL-BO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - BlackOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1a71dc15-4029-4f54-ac96-0fee739a03b8",
+    "code": "EXT-M-RR",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DeepRedRed M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "M",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "ffbd7251-a749-46a7-b2b9-3cd876e55b5a",
+    "code": "ATH-XL-OB",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - OrangeBlack XL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-07-04",
+    "size": "XL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "efe91ca7-72ec-453e-a3bb-4894d26b1f25",
+    "code": "ATH-S-RR",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DeepRedRed S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "S",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "90ee9ec7-5b23-4c0a-bb84-2efcf6eac0e8",
+    "code": "ATH-M-OB",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - OrangeBlack M",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "4fe6fe20-87df-46f8-8dc0-ddd35a2f2513",
+    "code": "ATH-M-TO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - TealOrange M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "01da8395-4168-4017-b481-9190473f2ce0",
+    "code": "ATH-S-RR",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DeepRedRed S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "2723766e-afe3-461b-b7ca-38568fd7ae57",
+    "code": "ATH-XL-CS",
+    "name": "Aura Field Elite Athletic Pants - CharcoalSilver XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-06-18",
+    "size": "XL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "3223f04e-c4f9-402a-a652-836175afbc48",
+    "code": "ATH-M-BO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - BlackOrange M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "M",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "34e9f99f-814a-40d2-9712-19a09c17339e",
+    "code": "EXT-XL-CS",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - CharcoalSilver XL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c6f4e972-fff9-4cb5-8d04-6e03d21e599d",
+    "code": "ATH-L-OB",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - OrangeBlack L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-07-03",
+    "size": "L",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "bd85a291-c202-4120-b43b-9cade79c4d0f",
+    "code": "EXT-S-BW",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DrBlueWhite S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-07-12",
+    "size": "S",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "872e3665-2bc3-436b-9917-305c24666ff2",
+    "code": "ATH-M-OB",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - OrangeBlack M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "8952c1c4-a4bd-4cf3-9aad-5fd40c7825bf",
+    "code": "ATH-XL-BW",
+    "name": "Aura Field Elite Athletic Pants - DrBlueWhite XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "9e7eabf8-f204-4a1b-9e3e-227ed67d1e12",
+    "code": "ATH-L-TO",
+    "name": "Aura Field Elite Athletic Pants - TealOrange L",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "0bfbba51-b3fa-4475-8f57-f6dbd50cbca3",
+    "code": "ATH-L-CS",
+    "name": "Aura Field Elite Athletic Pants - CharcoalSilver L",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e11ec06a-a099-496e-b5ed-81e0a9d9da0c",
+    "code": "ATH-M-BW",
+    "name": "Aura Field Elite Athletic Pants - DrBlueWhite M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "87baa585-0840-47a8-ba9c-8387574b8a55",
+    "code": "ATH-XL-BW",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DrBlueWhite XL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "9a149554-8cdc-422f-a610-afbd766680c7",
+    "code": "ATH-XXL-OB",
+    "name": "Aura Field Elite Athletic Pants - OrangeBlack XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c54d7690-4405-4be1-838b-2d869af7f443",
+    "code": "ATH-L-CS",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - CharcoalSilver L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "L",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "edbc545b-166e-4abd-ba6a-3fb3808be097",
+    "code": "EXT-M-TO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - TealOrange M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "M",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e8184b78-b365-41d0-b772-ebbfea1d47e6",
+    "code": "LUM-M-BO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - BlackOrange M",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "M",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "bf68f737-ee58-4aa8-8e52-6bfa2c4c5beb",
+    "code": "ATH-L-CS",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - CharcoalSilver L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a199cffb-7789-48cd-bc12-a7ae271bc519",
+    "code": "EXT-XL-BW",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DrBlueWhite XL",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "cdee0d98-3565-4855-91e3-fd251bdf5fbc",
+    "code": "ATH-XL-CS",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - CharcoalSilver XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a8939db6-c269-4596-af5e-9c2c898213de",
+    "code": "EXT-XXL-BO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - BlackOrange XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XXL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "3c67edc4-f438-45b3-b2f7-147745eddc5a",
+    "code": "EXT-M-BW",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DrBlueWhite M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-02-04",
+    "size": "M",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "386fd38a-0d72-426c-b117-22fed77b0ad9",
+    "code": "ATH-XXL-OB",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - OrangeBlack XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-03-25",
+    "size": "XXL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "2a3c172b-4106-48ff-b64f-ae2457711424",
+    "code": "ATH-L-BO",
+    "name": "Aura Field Elite Athletic Pants - BlackOrange L",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-03-06",
+    "size": "L",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "476b3e07-f808-42e2-863e-c73cac43ecb8",
+    "code": "ATH-XL-OB",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - OrangeBlack XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e606e65b-4392-409e-a2d6-fe24b114bb8c",
+    "code": "ATH-XL-BW",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DrBlueWhite XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "513aa00f-f810-4649-a32b-459efde3a9d2",
+    "code": "ATH-S-BW",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DrBlueWhite S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-06-21",
+    "size": "S",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d0618ebc-9282-48b1-a462-c06a0d871271",
+    "code": "ATH-M-TO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - TealOrange M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1abc7de4-bc38-4e56-a0e0-1a56c2e82dad",
+    "code": "LUM-L-BW",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DrBlueWhite L",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "L",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "64daba54-316f-4bd5-aa4c-5627c99f9ee8",
+    "code": "ATH-L-TO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - TealOrange L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a65cfc18-71b0-4524-8e91-cc68e13881e9",
+    "code": "EXT-L-BW",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DrBlueWhite L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "L",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a8525eb5-9556-4a7c-91e9-80421f7bdd0f",
+    "code": "LUM-XL-TO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - TealOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "dff969a0-619d-4eef-8d55-31ffe6e6b063",
+    "code": "EXT-L-BO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - BlackOrange L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-01-18",
+    "size": "L",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f7391a05-f6c3-43fa-8cb7-1e82a03aa9d0",
+    "code": "EXT-S-CS",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - CharcoalSilver S",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "S",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a8113a9f-ecbf-4837-994e-fc0420b2fa96",
+    "code": "ATH-L-BW",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DrBlueWhite L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "L",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a87a55ff-6a3d-45e8-91e8-252ee507e0ec",
+    "code": "EXT-S-OB",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - OrangeBlack S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "S",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "15b019a2-b40b-400e-b642-5b4a04990d4f",
+    "code": "ATH-L-OB",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - OrangeBlack L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "0948d4f1-f89d-4b38-9f6b-8974c1894a49",
+    "code": "ATH-XXL-RR",
+    "name": "Aura Field Elite Athletic Pants - DeepRedRed XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "123f01f6-e394-413a-a114-015add62e310",
+    "code": "EXT-L-TO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - TealOrange L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "L",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d2dd4995-da20-4372-895e-3c489794c580",
+    "code": "ATH-XXL-TO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - TealOrange XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XXL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b9f710c6-5915-4a6a-bcfe-0bf92ba0cd33",
+    "code": "LUM-XL-OB",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - OrangeBlack XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "XL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "bfbd7d87-aed9-41a3-989f-219ff05e9a7a",
+    "code": "ATH-S-RR",
+    "name": "Aura Field Elite Athletic Pants - DeepRedRed S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "958f721f-e882-4d2c-b5d4-f821b5a7b1bd",
+    "code": "ATH-XL-BO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - BlackOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-03-20",
+    "size": "XL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "3e5dc883-bcbc-454c-afc8-1c1aa62dd588",
+    "code": "ATH-XL-TO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - TealOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-04-01",
+    "size": "XL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e7025408-f603-4f4d-acef-ebe98aed6b59",
+    "code": "ATH-L-OB",
+    "name": "Aura Field Elite Athletic Pants - OrangeBlack L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "70f74c57-7c84-4af7-9762-368b827fc613",
+    "code": "ATH-S-CS",
+    "name": "Aura Field Elite Athletic Pants - CharcoalSilver S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1f0b7dce-7a32-49cc-aa18-0125791c6eb0",
+    "code": "ATH-L-RR",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DeepRedRed L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "680c90af-ff44-4f4a-8036-3d7f47a66108",
+    "code": "LUM-M-CS",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - CharcoalSilver M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "M",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d45415a0-5a17-4e93-8873-1e2d214d240d",
+    "code": "ATH-S-BO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - BlackOrange S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "090a7c25-fc39-4141-8b53-6c5231b02464",
+    "code": "LUM-XXL-BO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - BlackOrange XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-04-23",
+    "size": "XXL",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "14de28b2-913c-436e-b7b6-ed0ef9188ae4",
+    "code": "ATH-S-TO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - TealOrange S",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "S",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "67a036cb-3546-47f1-b340-906b66cfa5eb",
+    "code": "ATH-S-TO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - TealOrange S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "e7e52dc9-f967-4466-9bed-855a9b9058ca",
+    "code": "LUM-XL-CS",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - CharcoalSilver XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-01-31",
+    "size": "XL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d20dbb9e-ba64-44f2-8c8c-133329b5f46a",
+    "code": "ATH-S-CS",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - CharcoalSilver S",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "81e55ae8-a5af-43dc-9108-03eb13c3cc97",
+    "code": "ATH-M-RR",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DeepRedRed M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "M",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "af006100-f048-4318-b71c-70b9281af62c",
+    "code": "ATH-XL-CS",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - CharcoalSilver XL",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "28e1abea-6c84-4e02-87b4-7f79177ae48e",
+    "code": "ATH-L-TO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - TealOrange L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "7b710fe9-210d-40fb-a6c2-e313773e0342",
+    "code": "ATH-S-BO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - BlackOrange S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "S",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "1e62f096-c0ae-45f9-b4b4-db45b6a58659",
+    "code": "EXT-XL-RR",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DeepRedRed XL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "a1ff3db1-a94d-4a53-85a2-e23ddb673942",
+    "code": "ATH-S-CS",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - CharcoalSilver S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "S",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f3953811-cc9d-45f2-82ed-ac9213598f72",
+    "code": "ATH-XXL-CS",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - CharcoalSilver XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XXL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "961f6355-981f-4b6c-831f-2488e11e9031",
+    "code": "ATH-M-BO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - BlackOrange M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "2ebb86b7-7f96-460c-b17c-75aaaa528b1a",
+    "code": "LUM-L-BO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - BlackOrange L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "L",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "6f946903-3063-4a74-a16d-b1e3f1ee2a3d",
+    "code": "ATH-L-OB",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - OrangeBlack L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "L",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "783a6344-2aa8-4159-88fc-b6cad08bb6c9",
+    "code": "ATH-XL-OB",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - OrangeBlack XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-07-15",
+    "size": "XL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b7966433-2201-4cb1-a213-34bb1918d7b7",
+    "code": "ATH-S-BW",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DrBlueWhite S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "2d484813-a38a-40cd-b75b-781aab8a6d06",
+    "code": "ATH-L-BW",
+    "name": "Aura Field Elite Athletic Pants - DrBlueWhite L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "53a2ef5d-63fc-4827-90fd-8aec8bc50caf",
+    "code": "EXT-XXL-CS",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - CharcoalSilver XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "XXL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "5b98bfc7-f3f8-4704-b728-fb87e40dc7ab",
+    "code": "EXT-M-BO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - BlackOrange M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "M",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d3f65436-6a0c-46b0-a067-17ec593173cb",
+    "code": "EXT-S-TO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - TealOrange S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "S",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c40a7353-d294-4bf9-acbc-32f673708e14",
+    "code": "EXT-L-CS",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - CharcoalSilver L",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "L",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c6f0bda6-4846-492a-b2ee-b072e2331cf6",
+    "code": "ATH-M-RR",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DeepRedRed M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "6eb06699-9d2d-4e2d-bc80-8275ecda812e",
+    "code": "ATH-XXL-TO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - TealOrange XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "20e3fb32-4a31-40e0-9d51-119ce58c6d52",
+    "code": "LUM-S-BO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - BlackOrange S",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "S",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "0fcea28b-1049-496b-9103-6ba38b8a8509",
+    "code": "ATH-S-BW",
+    "name": "Aura Field Elite Athletic Pants - DrBlueWhite S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-08-04",
+    "size": "S",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "cd7ddd03-0225-4afa-853d-ebd6e2b3c445",
+    "code": "ATH-S-OB",
+    "name": "Aura Field Elite Athletic Pants - OrangeBlack S",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "5b3d0cd6-c08f-4100-b744-9e895c4d494b",
+    "code": "ATH-XXL-TO",
+    "name": "Aura Field Elite Athletic Pants - TealOrange XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "9beaf444-4264-48e2-8b06-0250af6b7639",
+    "code": "ATH-S-RR",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DeepRedRed S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "303c73d8-5fdd-42c6-bd0e-dd0e4d879bd1",
+    "code": "LUM-M-BW",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DrBlueWhite M",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-07-30",
+    "size": "M",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d6611c05-ed0b-478a-8d01-bc310f4b4bc6",
+    "code": "ATH-XXL-CS",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - CharcoalSilver XXL",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "6cfed934-3dd5-4544-a135-db9b80c58249",
+    "code": "ATH-XXL-BW",
+    "name": "Aura Field Elite Athletic Pants - DrBlueWhite XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "da65b032-43e9-46ca-90ae-f4813f000bad",
+    "code": "EXT-M-CS",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - CharcoalSilver M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "M",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f690d7bc-92c6-4e60-9604-5716ee83c9e3",
+    "code": "ATH-XXL-CS",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - CharcoalSilver XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "32116684-4e94-412e-a47a-2f2afb3264ba",
+    "code": "ATH-M-RR",
+    "name": "Aura Field Elite Athletic Pants - DeepRedRed M",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "cef20cc0-42f3-443f-ae0f-c84230d024c6",
+    "code": "ATH-M-TO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - TealOrange M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "M",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "51134116-abd9-48ff-8ebb-513a74d91829",
+    "code": "LUM-XL-RR",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DeepRedRed XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-08-11",
+    "size": "XL",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "ec602898-c1d3-4264-a5f3-d28709313fc3",
+    "code": "LUM-XXL-BW",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DrBlueWhite XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-06-16",
+    "size": "XXL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "ceca9240-dabf-40a6-a97d-815ca3d3a083",
+    "code": "LUM-S-RR",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DeepRedRed S",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-06-10",
+    "size": "S",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "8917f434-f53b-4def-a0bb-dd4a6a60dcfc",
+    "code": "ATH-XL-TO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - TealOrange XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f5cca8a7-7a84-405a-b08c-21839024d0e8",
+    "code": "ATH-L-BO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - BlackOrange L",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-04-24",
+    "size": "L",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "8712a512-8991-4d45-b7b4-e01c927280f4",
+    "code": "ATH-M-OB",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - OrangeBlack M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "M",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "77a4a2eb-b821-4483-af25-6e9592900591",
+    "code": "EXT-L-OB",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - OrangeBlack L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "L",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "cef05858-9761-4b85-8367-ffc0074677d9",
+    "code": "EXT-L-RR",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DeepRedRed L",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "L",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "8bd02806-a0ad-446d-b7fe-67d69af937a0",
+    "code": "ATH-XXL-OB",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - OrangeBlack XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "77e23236-392c-44bc-84a3-0d9e1ac0a465",
+    "code": "EXT-S-BO",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - BlackOrange S",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2020-11-01",
+    "size": "S",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "311e4b1e-389f-42fc-936a-916bff803d76",
+    "code": "ATH-L-RR",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DeepRedRed L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "L",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "9d5b61f0-22c4-4c42-8d40-3191654a4f92",
+    "code": "LUM-L-RR",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DeepRedRed L",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "L",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "5b590770-ce77-4179-ae4a-bd891dac9866",
+    "code": "LUM-S-TO",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - TealOrange S",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2019-06-01",
+    "size": "S",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "613017cd-c0a1-4799-9275-5d64dcfee08c",
+    "code": "ATH-L-BO",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - BlackOrange L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-03-12",
+    "size": "L",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "61a92453-cd05-46e8-9d80-127c21543686",
+    "code": "ATH-M-CS",
+    "name": "Aura Field Elite Athletic Pants - CharcoalSilver M",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic pants with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-08-02",
+    "size": "M",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "399d0476-0106-4842-a965-39f080493327",
+    "code": "LUM-M-RR",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - DeepRedRed M",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-06-12",
+    "size": "M",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f7eef13b-9f68-4f5a-affd-6ace6c51e85d",
+    "code": "ATH-M-CS",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - CharcoalSilver M",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "M",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "45b2a518-1f06-4fcf-a7f6-cd7d20f7bd3d",
+    "code": "ATH-XXL-TO",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - TealOrange XXL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XXL",
+    "color": "TealOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "fa58343d-436a-41ce-990e-f79614bffe33",
+    "code": "ATH-M-BW",
+    "name": "Aura Field Elite Athletic Short Sleeve Top - DrBlueWhite M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic short sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2025-03-25",
+    "size": "M",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "9cc939cb-3fdf-4019-b845-fefc019267aa",
+    "code": "ATH-XXL-BW",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DrBlueWhite XXL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "XXL",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "36ceca81-63e6-473d-a7db-95aeefae312c",
+    "code": "ATH-S-BO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - BlackOrange S",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "c242855e-7b1e-454a-9e01-e528067b40a3",
+    "code": "EXT-S-RR",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - DeepRedRed S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-02-06",
+    "size": "S",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "46b6d5e8-69e6-4389-8a74-93d0d0fe9f97",
+    "code": "EXT-XL-OB",
+    "name": "Aura Field Extreme Temp All-weather Illuminated Hooded Jacket - OrangeBlack XL",
+    "category": {
+      "id": "0322ef06-8b4e-4c92-bd25-80910829c7b1",
+      "name": "ZavaCore Nano",
+      "type": "B2B"
+    },
+    "type": "Extreme",
+    "description": "Extreme weather jacket with heating elements and advanced illumination",
+    "msrp": 289.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-01-24",
+    "size": "XL",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused insulation, integrated heating elements, LED illumination, waterproof, windproof"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "fd1ae084-48e8-4ebd-9b93-76dba11fc5a7",
+    "code": "ATH-M-BW",
+    "name": "Aura Field Elite Hooded Fleece Athletic Top - DrBlueWhite M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "Premium hooded fleece athletic top with advanced graphene technology",
+    "msrp": 89.0,
+    "costPrice": 58.0,
+    "launchDate": "2018-03-01",
+    "size": "M",
+    "color": "DrBlueWhite",
+    "specifications": {
+      "raw": "Graphene-infused fleece, thermal regulation, moisture wicking, anti-odor, wind resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "bcefb481-ee97-499c-b304-4f719e8418d7",
+    "code": "ATH-L-RR",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - DeepRedRed L",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "DeepRedRed",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "b8bb9a0a-381e-472d-ab06-b6ae3218bf93",
+    "code": "ATH-L-BO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - BlackOrange L",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "L",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "f308f459-d936-4d7c-ac38-23190e5d5fa7",
+    "code": "ATH-XL-CS",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - CharcoalSilver XL",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "XL",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d1f40cc7-0c0c-4af8-889f-dadc361b380f",
+    "code": "LUM-L-CS",
+    "name": "Aura Field Lumalux Light Weight Illuminated Hooded Jacket - CharcoalSilver L",
+    "category": {
+      "id": "ca8a7866-d31f-4a05-a9aa-48b8523bf88a",
+      "name": "Pro-data Sensors",
+      "type": "B2B"
+    },
+    "type": "Lumalux",
+    "description": "Lightweight illuminated jacket with integrated LED technology",
+    "msrp": 179.0,
+    "costPrice": 58.0,
+    "launchDate": "2025-01-25",
+    "size": "L",
+    "color": "CharcoalSilver",
+    "specifications": {
+      "raw": "Graphene-infused fabric, integrated LED strips, rechargeable battery, water resistant"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "4504e449-30a3-49c5-94e0-d4723b18c502",
+    "code": "ATH-M-BO",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - BlackOrange M",
+    "category": {
+      "id": "d9465d71-3a71-4929-8e5d-d7865031c04d",
+      "name": "ZavaCore Field",
+      "type": "B2C"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "M",
+    "color": "BlackOrange",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  },
+  {
+    "id": "d122443a-6ccd-4696-82d1-910a33fa58b0",
+    "code": "ATH-S-OB",
+    "name": "Aura Field Elite Athletic Long Sleeve Top - OrangeBlack S",
+    "category": {
+      "id": "7f7ebb0d-0b5f-4408-9df2-62eb545bed71",
+      "name": "ZavaCore Systems",
+      "type": "B2B"
+    },
+    "type": "Athletic",
+    "description": "High-performance athletic long sleeve top with graphene-infused performance knit",
+    "msrp": 89.0,
+    "costPrice": 22.0,
+    "launchDate": "2017-09-01",
+    "size": "S",
+    "color": "OrangeBlack",
+    "specifications": {
+      "raw": "Graphene-infused performance knit, 4-way stretch, moisture wicking, anti-odor, UPF protection"
+    },
+    "isCustomizable": false,
+    "sourceCategoryId": "d9465d71-3a71-4929-8e5d-d7865031c04d"
+  }
+]
